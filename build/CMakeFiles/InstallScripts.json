@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/PC/Documents/openGL/build/cmake_install.cmake",
+		"C:/Users/PC/Documents/openGL/build/external/glfw/cmake_install.cmake",
+		"C:/Users/PC/Documents/openGL/build/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

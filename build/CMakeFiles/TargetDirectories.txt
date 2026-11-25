@@ -1,0 +1,10 @@
+C:/Users/PC/Documents/openGL/build/CMakeFiles/glad.dir
+C:/Users/PC/Documents/openGL/build/CMakeFiles/openGL.dir
+C:/Users/PC/Documents/openGL/build/CMakeFiles/edit_cache.dir
+C:/Users/PC/Documents/openGL/build/CMakeFiles/rebuild_cache.dir
+C:/Users/PC/Documents/openGL/build/external/glfw/CMakeFiles/edit_cache.dir
+C:/Users/PC/Documents/openGL/build/external/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/PC/Documents/openGL/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/PC/Documents/openGL/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/PC/Documents/openGL/build/external/glfw/src/CMakeFiles/edit_cache.dir
+C:/Users/PC/Documents/openGL/build/external/glfw/src/CMakeFiles/rebuild_cache.dir
